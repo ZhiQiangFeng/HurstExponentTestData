@@ -6,10 +6,15 @@ This dataset contains the experimental data used in *A Survey of Methods for Est
 ## File Structure
 
 data/
+
 ├── FGN_*_30.csv
+
 ├── Random_*_30.csv
+
 ├── rsif20210272_si_002.csv
+
 ├── RT-HS-P1.npy
+
 └── README.md
 
 ## File Descriptions
