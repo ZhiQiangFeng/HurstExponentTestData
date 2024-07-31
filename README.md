@@ -1,7 +1,7 @@
 # Dataset README
 
 ## Overview
-This dataset contains the experimental data used in *A Survey of Methods for Estimating Hurst Exponent of Time Sequence* (https://arxiv.org/abs/2310.19051). The dataset includes multiple CSV files and a NumPy format file (.npy), which store various data collected during the experiments. This README file provides a detailed description of each file and its contents.
+This dataset contains the experimental data used in *A Survey of Methods for Estimating Hurst Exponent of Time Sequence* [https://arxiv.org/abs/2310.19051](https://arxiv.org/abs/2310.19051). The dataset includes multiple CSV files and a NumPy format file (.npy), which store various data collected during the experiments. This README file provides a detailed description of each file and its contents.
 
 ## File Structure
 
@@ -32,8 +32,7 @@ data/
   - `X{i}`: The FGN sequence used in i-th experiment, with a sequence length of 10,000.
 
 ### rsif20210272_si_002.csv
-- **Description**: The reaction time (RT) data from 20 participants in both test groups were collected and made publicly accessible for retrieval (https://royalsocietypublishing.org/doi/suppl/10.1098/rsif.2021.
-0272).
+- **Description**: The reaction time (RT) data from 20 participants in both test groups were collected and made publicly accessible for retrieval [https://royalsocietypublishing.org/doi/suppl/10.1098/rsif.2021.0272](https://royalsocietypublishing.org/doi/suppl/10.1098/rsif.2021.0272).
 - **Columns**:
   - `condition`: experimental condition: HS (Human Speech) or TSS (text-to-speech)
   - `participant`: participant identity: P1 to P20
