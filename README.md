@@ -20,7 +20,7 @@ data/
 - **Columns**:
   - `f{i}`: The FGN sequence used in i-th experiment, with a sequence length of 30,000.
 
-### Random_*_*_30.csv
+### Random_{*}_{*}_30.csv
 
 - **Description**: Multiple sets of FGN sequences with differnent random distributions. The first asterisk (*) represents six types random distributions, including normal distribution N(0, 1), Chi-square distribution X^2(1), geometric distribution GE(0.25), Poisson distribution P(5), exponential distribution Exp(1), and uniform distribution U(0, 1).  Second asterisk (*) represents the sequence length and 30 represents the number of experiments.
 - **Columns**:
